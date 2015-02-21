@@ -120,7 +120,7 @@ When even or ahead, play hard. When behind, play harder.
 
 Use time wisely. Think and plan on your opponent's time during the game. Avoid time trouble. When in time trouble, try to think and play calmly.
 
-Do not relax and become overconfident and careless when ahead. Apply the “killer instinct” throughout the game.
+Do not relax and become overconfident and careless when ahead. Apply the "killer instinct" throughout the game.
 
 Keep the normal value of the pieces in mind (queen=9, rook=5, bishop=3+, knight=3, and pawn=1), but remember that these values vary according to the position, mobility, and potential of the pieces. Whether attacking or defending, count the number and consider the values of both attackers and defenders on a target piece, pawn or square before exchanging or occupying, to insure against losing material.
 
@@ -128,9 +128,9 @@ Superior force usually wins, so stay even or ahead in material throughout the ga
 
 Chess is not Solitaire. Sound chess begins with respect for your opponent's ideas, moves, threats, plans and ability.
 
-Determine the purpose of each move by your opponent. Ask yourself, “What is the THREAT?” and “What has CHANGED in the position?” after each of your opponent's moves. Concentrate on offense and attacking, but recognize and answer all threats.
+Determine the purpose of each move by your opponent. Ask yourself, "What is the THREAT?" and "What has CHANGED in the position?" after each of your opponent's moves. Concentrate on offense and attacking, but recognize and answer all threats.
 
-To win a game of chess, you must first not lose it. Avoid mistakes, such as leaving pieces en prise (unguarded) or exposing your king. Before each of your moves, ask yourself, “DOES THIS MOVE IMPROVE MY POSITION?” and “IS THIS MOVE SAFE?” Avoiding mistakes is the beginning of improvement in chess. THINK before you move!
+To win a game of chess, you must first not lose it. Avoid mistakes, such as leaving pieces en prise (unguarded) or exposing your king. Before each of your moves, ask yourself, "DOES THIS MOVE IMPROVE MY POSITION?" and "IS THIS MOVE SAFE?" Avoiding mistakes is the beginning of improvement in chess. THINK before you move!
 
 Don't play the first good move you see. Look around for an even better one.
 

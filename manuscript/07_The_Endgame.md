@@ -6,7 +6,7 @@ Exploit advantages and minimize disadvantages.
 
 Be dynamic.
 
-Don’t play aimlessly. Don’t waste moves. Don’t give pointless checks.
+Don't play aimlessly. Don't waste moves. Don't give pointless checks.
 
 Deploy & activate all your pieces. Get your king into the fight.
 
@@ -22,19 +22,19 @@ Avoid weakening pawn moves.
 
 If you have weaknesses, liquidate them.
 
-If an enemy pawn is weak, don’t trade it. Win it!
+If an enemy pawn is weak, don't trade it. Win it!
 
 Create a passed pawn. Use it.
 
-Don’t dilly-dally. If one of your pawns is attackable, be ready to defend it. 
+Don't dilly-dally. If one of your pawns is attackable, be ready to defend it. 
 
-Don’t hurry, but if there’s a race, win it!
+Don't hurry, but if there's a race, win it!
 
 Escort passed pawns. The king clears the way.
 
-If the king can’t get in front, get behind. Get somewhere.
+If the king can't get in front, get behind. Get somewhere.
 
-If the king can’t blockade, block out.
+If the king can't blockade, block out.
 
 Zugzwang your opponent. Achieve meaningful oppositions.
 
@@ -42,11 +42,11 @@ When mobilizing a pawn majority, push the unopposed pawn first.
 
 If stalled, open a second front. Create another passed pawn. Decoy your opponent.
 
-Don’t make too many extra queens. Two queens are enough.
+Don't make too many extra queens. Two queens are enough.
 
 If ahead by a pawn, exchange pieces, not pawns. If behind by a pawn, exchange pawns, not pieces.
 
-Avoid getting stuck with rook pawns, unless it’s a special case.
+Avoid getting stuck with rook pawns, unless it's a special case.
 
 Corral. Bishops should restrict knights.
 
@@ -54,7 +54,7 @@ With opposite colored bishops, blockade to draw, create passed pawns to win.
 
 Anchor your good knight.
 
-Don’t put pawns on the same color squares as your bishop.
+Don't put pawns on the same color squares as your bishop.
 
 Fix pawns to impede the enemy bishop.
 
@@ -62,7 +62,7 @@ With two bishops, swap one to get a winning minor piece ending where appropriate
 
 Activate rooks. To insure activity, you may have to sac a pawn or two.
 
-Attack with rooks from far away. Keep the “checking distance.”
+Attack with rooks from far away. Keep the "checking distance."
 
 Put rooks behind passed pawns. If not possible, flank-attack them.
 
@@ -72,13 +72,13 @@ Shelter your king from enemy rooks. If necessary, build a bridge.
 
 Blockade with the king, not the rook.
 
-In pure queen endings, centralize your queen and choke the enemy’s.
+In pure queen endings, centralize your queen and choke the enemy's.
 
 Avoid greed. Cede extra material if it eases the win.
 
 Trade to simplify, avoid exchanges to keep complex. If winning, clarify. If losing, complicate.
 
-Play to shut down all your opponent’s counterplay.
+Play to shut down all your opponent's counterplay.
 
 When pawns are far advanced, close to promotion, be on the lookout for tactical tricks involving promotion.
 
@@ -96,7 +96,7 @@ The minimum mating material against a lone king is a king and rook.
 
 To win and endgame with only pieces remaining, you must normally be at least minimum mating material ahead.
 
-Activate your king (usually by centralizing) early in the endgame – for both offense and defense – and maintain an aggressive king position throughout the endgame.
+Activate your king (usually by centralizing) early in the endgame - for both offense and defense - and maintain an aggressive king position throughout the endgame.
 
 Learn and apply endgame fundamentals: queening square, opposition, triangulation, and zugzwang.
 
@@ -118,7 +118,7 @@ Create an advance passed pawns at every safe opportunity, and promote passed paw
 
 To promote pawns, advance unopposed pawns first, especially those farthest from the defending king.
 
-An offside (away from the kings) pawn majority can produce a winning passed pawn – either a new queen or an effective decoy.
+An offside (away from the kings) pawn majority can produce a winning passed pawn - either a new queen or an effective decoy.
 
 Capture or blockade opposing passed pawns early, before they threaten to queen.
 
@@ -146,7 +146,7 @@ Remember and apply the five types of draws: insufficient mating material, stalem
 
 Do not resign prematurely. Play for a draw when behind. Aside from hopelessly drawn positions, offer a draw only when behind or in time trouble. Accept draws only after careful reflection.
 
-In the endgame, make good use of your king. Keep your rooks active. They work best from far away. Don’t let your rooks idle in defense. Try to create a meaningful passed pawn. Convoy it home. Don’t make lots of extra queens. One, or at most, two will do. Otherwise, you increase the chance of stalemate. With an extra queen, mate as soon as possible. If lost, find a stalemate shot, a swindle, or set up a fortress.
+In the endgame, make good use of your king. Keep your rooks active. They work best from far away. Don't let your rooks idle in defense. Try to create a meaningful passed pawn. Convoy it home. Don't make lots of extra queens. One, or at most, two will do. Otherwise, you increase the chance of stalemate. With an extra queen, mate as soon as possible. If lost, find a stalemate shot, a swindle, or set up a fortress.
 
 One of the best destroyers of counter-chances is a well advanced passed pawn. There is always a danger in letting the enemy have a pawn one square nearer to queening than you have.
 
@@ -172,7 +172,7 @@ In the endgame, bishops of opposite color tend to be drawish.
 
 In the endgame, bishops tend to be stronger if there are pawns on both wings, while knights tend to be stronger if pawns are on only one wing or in the center. The reason is, bishops, with their long-range mobility, can cover both sides of the board, whereas knights, while unable to cope well with far-flung pawns, can cover squares of both colors.
 
-In those cases where the opposite-colored bishop is blockading the passed pawn, the attacking side’s plan consists of getting his king through to the pawn. But sometimes, this can only be achieved by means of a feinting attack on the other wing.
+In those cases where the opposite-colored bishop is blockading the passed pawn, the attacking side's plan consists of getting his king through to the pawn. But sometimes, this can only be achieved by means of a feinting attack on the other wing.
 
 The possibility of making play on both wings is the winning factor with bishops of opposite colors. If play can be made on both wings, there is sometimes a win even with equal pawns.
 
@@ -192,6 +192,6 @@ For drawing purposes, there is nothing like denuding the enemy of pawns on one w
 
 Zugzwang is the great enemy of knights and kings in the endgame.
 
-As soon as you get to the endgame, activate the king. Bring it back to the center or somewhere useful. If there are rooks on the board, please make sure to avoid back-rank mates by making luft or centralizing the king. Try to create a passed pawn and make a queen, or force your opponent to give up material to prevent you from doing so. Keep your pieces active. Rooks are effective from far away. Don’t place your pawns on the same color squares as your bishop. In king and pawn endings, try to clear paths for your pawns with your king. Remember the value of diagonal king moves. With them, you can often cover more territory and accomplish multiple aims. Don’t waste time making a lot of queens. Once you get an extra queen, force mate.
+As soon as you get to the endgame, activate the king. Bring it back to the center or somewhere useful. If there are rooks on the board, please make sure to avoid back-rank mates by making luft or centralizing the king. Try to create a passed pawn and make a queen, or force your opponent to give up material to prevent you from doing so. Keep your pieces active. Rooks are effective from far away. Don't place your pawns on the same color squares as your bishop. In king and pawn endings, try to clear paths for your pawns with your king. Remember the value of diagonal king moves. With them, you can often cover more territory and accomplish multiple aims. Don't waste time making a lot of queens. Once you get an extra queen, force mate.
 
-When losing, avoid the endgame unless you can achieve a positional draw. You can trade, for instance, to reach an endgame with bishops of opposite colors. Such endgames are often drawn, even if one player is ahead by a few pawns. You also can exchange if you can saddle your opponent with a rook-pawn and a bishop that doesn’t control the pawn’s promotion square. If the endgame comes down to a minor piece and pawn vs a minor piece, you may be able to sacrifice the minor piece for a draw. In general, fight on tooth and nail. Make your opponent earn the win. No one ever won by resigning.
+When losing, avoid the endgame unless you can achieve a positional draw. You can trade, for instance, to reach an endgame with bishops of opposite colors. Such endgames are often drawn, even if one player is ahead by a few pawns. You also can exchange if you can saddle your opponent with a rook-pawn and a bishop that doesn't control the pawn's promotion square. If the endgame comes down to a minor piece and pawn vs a minor piece, you may be able to sacrifice the minor piece for a draw. In general, fight on tooth and nail. Make your opponent earn the win. No one ever won by resigning.

@@ -8,7 +8,7 @@ If your opponent plays an unusual move, try to understand it before responding. 
 
 The best way to avoid falling into a trap is to develop your pieces to useful squares where they will not be in any immediate danger.
 
-An attempt by White to play “Black with a move in hand” can always be resolved by the opponent into easy equality if one can only find the way. But when faced with the problem over the board without having studied it or previously met it, the way is not always easy to find.
+An attempt by White to play "Black with a move in hand" can always be resolved by the opponent into easy equality if one can only find the way. But when faced with the problem over the board without having studied it or previously met it, the way is not always easy to find.
 
 Proper development does not concern itself merely with placing the pieces where they are effective for attack. It is equally important to interfere with the range of influence of the opponent's pieces.
 
@@ -32,7 +32,7 @@ Develop pieces rapidly and safely toward the center, and develop with a threat w
 
 Look for ways to develop with threats.
 
-Develop each piece to its most effective square – strong, safe squares on which your pieces have scope, mobility, and aggressive or defensive prospects – and do so efficiently, without moving the same piece over and over.
+Develop each piece to its most effective square - strong, safe squares on which your pieces have scope, mobility, and aggressive or defensive prospects - and do so efficiently, without moving the same piece over and over.
 
 Aim your pieces at the center, the opposing king and at weak points in your opponent's position.
 
@@ -46,7 +46,7 @@ Develop the queen, but not too early, and usually close to home to avoid harassm
 
 Avoid time-wasting pawn grabbing of wing pawns, especially with the queen, at the expense of development and position (center pawns are generally worth capturing).
 
-Move each piece only once in the opening – do not waste time moving the same piece multiple times, leaving other pieces undeveloped.
+Move each piece only once in the opening - do not waste time moving the same piece multiple times, leaving other pieces undeveloped.
 
 Castle early, usually on the kingside.
 
@@ -54,11 +54,11 @@ Avoid prolonged symmetry in the opening. Imbalances in the position are necessar
 
 Do not lose material without adequate compensation in the opening.
 
-Occasionally, play gambits – sacrifices of material (usually a pawn or two) to gain a lead in development, control the center, seize the initiative, and open lines for attack – for fun, and to sharpen your tactics.
+Occasionally, play gambits - sacrifices of material (usually a pawn or two) to gain a lead in development, control the center, seize the initiative, and open lines for attack - for fun, and to sharpen your tactics.
 
 Play both king- and queen-pawn openings, and play gambits occasionally.
 
-If you accept a gambit, expect to play some defense – and be prepared to return the extra material to improve your position after using the initiative to create weaknesses in your opponent's position. 
+If you accept a gambit, expect to play some defense - and be prepared to return the extra material to improve your position after using the initiative to create weaknesses in your opponent's position. 
 
 Learn and play standard openings and defenses, which suit your style, whether tactical or positional.
 
@@ -66,7 +66,7 @@ Specialize in only a few openings and defenses. Build an opening repertoire and 
 
 In serious games, play openings and defenses you know well. Practice other openings and defenses in casual games or against a computer.
 
-Patience is the byword in the opening and early middlegame, especially as Black. Best results are achieved by first building a solid, strong, active position – safe king, active pieces, strong center, and sound pawn formations – then seeking tactical and attacking opportunities.
+Patience is the byword in the opening and early middlegame, especially as Black. Best results are achieved by first building a solid, strong, active position - safe king, active pieces, strong center, and sound pawn formations - then seeking tactical and attacking opportunities.
 
 If behind in development, keep the position closed. If ahead, open it up.
 
@@ -96,11 +96,11 @@ Develop purposefully, not just for development's sake. Put pieces on good square
 
 Try to develop with threats, but don't threaten pointlessly or waste time doing so.
 
-If you take your opponent “out of the books,” do it with a bold move, not a lukewarm one.
+If you take your opponent "out of the books," do it with a bold move, not a lukewarm one.
 
 The importance of getting to a stage where your rooks can see each other is enormously greater in a position with open files.
 
-In most situations, to advance a rook pawn one square to prevent a bishop from coming to N5 is a waste of a tempo. By waiting until the opponent has already placed him there before you “biff” the bishop away, you cause him to waste a tempo.
+In most situations, to advance a rook pawn one square to prevent a bishop from coming to N5 is a waste of a tempo. By waiting until the opponent has already placed him there before you "biff" the bishop away, you cause him to waste a tempo.
 
 When one's opponent has castled kingside, it is nearly always a good idea to pin his king's knight.
 

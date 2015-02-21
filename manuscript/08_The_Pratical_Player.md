@@ -10,9 +10,9 @@ Always unpins.
 
 Always makes a blunder-check.
 
-Checks each possible move of the opponent’s pieces and pawns while it is the opponent’s turn to move.
+Checks each possible move of the opponent's pieces and pawns while it is the opponent's turn to move.
 
-Tries to find ways to ignore the opponent’s threats, i.e., looks for stronger counter-threats of his own.
+Tries to find ways to ignore the opponent's threats, i.e., looks for stronger counter-threats of his own.
 
 Prefers to move an attacked piece rather than defend it.
 
@@ -26,7 +26,7 @@ Handles rooks very aggressively; Take! Take! Take!
 
 Never vacates an open file to avoid exchanges.
 
-When he can’t think of anything better to do, looks for a plan to activate his own worst-placed piece (the plan may simply be to put the piece on a better square).
+When he can't think of anything better to do, looks for a plan to activate his own worst-placed piece (the plan may simply be to put the piece on a better square).
 
 Looks for ways of using the king as an active piece as early in the game as possible.
 
@@ -90,7 +90,7 @@ Having no systematic method of searching for a move.
 
 Failing to analyze each position accurately and completely.
 
-Not analyzing the consequences of all possible checks and captures – for both sides – on each move.
+Not analyzing the consequences of all possible checks and captures - for both sides - on each move.
 
 Not planning (playing only move-to-move).
 

@@ -22,7 +22,7 @@ The elimination of defensive pieces is often the key to a successful attack.
 
 When under attack, always try to find the most active, constructive defensive moves.
 
-Don't be intimidated by extremely messy positions. The play still tends to be based on simple tactical ideas – just a lot of them.
+Don't be intimidated by extremely messy positions. The play still tends to be based on simple tactical ideas - just a lot of them.
 
 Don't automatically recapture material if doing so distracts you from your attack.
 
@@ -86,13 +86,13 @@ Play to maximize your advantage. Win all you safely can.
 
 Attacks are only justified by existing or potential weaknesses. Avoid useless checks and premature attacks that waste time and scatter pieces.
 
-In tactical situations, always analyze each candidate move to a quiet position – one in which all checks and captures have been exhausted or neutralized (your “horizon”).
+In tactical situations, always analyze each candidate move to a quiet position - one in which all checks and captures have been exhausted or neutralized (your "horizon").
 
 If your opponent attacks on the flank, counterattack in the center.
 
 In most cases, attack with pieces not pawns.
 
-Every successful tactic, combination, sacrifice, and attack is based on one or more weaknesses in the opponent’s position.
+Every successful tactic, combination, sacrifice, and attack is based on one or more weaknesses in the opponent's position.
 
 Sometimes, defending a weakness, such as a weak pawn, can ultimately cost you more than simply letting it go.
 
@@ -110,19 +110,19 @@ A wing attack will usually not succeed unless you can control the center or clog
 
 A powerful knight, centrally posted in the enemy camp, pawn-supported, and immune to being dislodged by an enemy pawn is a deadly weapon for an attack.
 
-It’s usually a bad idea to attack a fianchetto castled position without first exchanging off the fianchetto bishop to weaken the squares it was protecting. If you can force the fianchetto bishop to retreat to R1, that is almost as good, as it leaves you in control of his R3 and restricts the bishop to only one diagonal.
+It's usually a bad idea to attack a fianchetto castled position without first exchanging off the fianchetto bishop to weaken the squares it was protecting. If you can force the fianchetto bishop to retreat to R1, that is almost as good, as it leaves you in control of his R3 and restricts the bishop to only one diagonal.
 
 A common error is refusing to sacrifice the exchange for a pawn in order to get out of trouble. This is such a very small sacrifice in a position without any fully open files (therefore, not yet good for rooks) that it is almost always better than getting pushed around.
 
 Refrain from passive defense involving retrogression of pieces if there is some way of ending the pressure by a small sacrifice. Of all sacrifices, the smallest is a minor piece for three pawns.
 
-Rooks work best with bishops, and queens work best with knights. These combinations of pieces compliment each other’s strengths instead of overlapping. This only holds for normal pawn formations. Against a king entirely without pawn shelter, the bishop may be the stronger partner for the queen.
+Rooks work best with bishops, and queens work best with knights. These combinations of pieces compliment each other's strengths instead of overlapping. This only holds for normal pawn formations. Against a king entirely without pawn shelter, the bishop may be the stronger partner for the queen.
 
-Many opportunities of avoiding disaster by giving up the queen for some of the enemy’s attacking forces are missed because the queen is so much overrated.
+Many opportunities of avoiding disaster by giving up the queen for some of the enemy's attacking forces are missed because the queen is so much overrated.
 
 When a queen and bishop battery is looming, you should move the rook to give your king flight squares. Avoid playing pawn to knight 3 if possible, as this only weakens the castled position unless there is a fianchetto bishop there.
 
-When you have superior attacking forces aimed at the enemy king, it’s often well worth the sacrifice of one, or even two pieces to strip the king of his pawn cover.
+When you have superior attacking forces aimed at the enemy king, it's often well worth the sacrifice of one, or even two pieces to strip the king of his pawn cover.
 
 An attack against the king is an end in itself, but an attack in another part of the board is only a means of gaining space or mobility.
 
@@ -136,9 +136,9 @@ Do not rely on slow routine development to nullify a coming kingside attack.
 
 Counter-attack is rarely a desirable defense unless the thing counter-attacked is more valuable than the thing being attacked.
 
-Having your opponent’s king exposed (especially if he’s in the center of the board) and under attack is usually well worth a piece.
+Having your opponent's king exposed (especially if he's in the center of the board) and under attack is usually well worth a piece.
 
-Passive defense is futile in a game of opposite side castling. A pawn storm is also useless if your opponent’s is already well under way. The only hope is to expose the enemy king, usually by a piece sacrifice.
+Passive defense is futile in a game of opposite side castling. A pawn storm is also useless if your opponent's is already well under way. The only hope is to expose the enemy king, usually by a piece sacrifice.
 
 Good judgment and stiff defense in lost positions are two of the hallmarks of a master.
 
@@ -146,7 +146,7 @@ In chess, the threat is stronger than the execution.
 
 If your opponent offers a sacrifice, accept it, unless you can see clearly that it would be bad to do so. 
 
-The best defense is a good offense. Look for counterattacks. If you must defend, try to combine protection with counterplay, making sure to reply to all enemy threats. Issue threats of your own to seize the initiative. The best way to upset your opponent’s plans is to become menacing.
+The best defense is a good offense. Look for counterattacks. If you must defend, try to combine protection with counterplay, making sure to reply to all enemy threats. Issue threats of your own to seize the initiative. The best way to upset your opponent's plans is to become menacing.
 
 The best way to stop an enemy threat to your own king is to attack his.
 
@@ -188,6 +188,6 @@ Defend as economically and permanently as possible, and remember that a pawn is 
 
 Close lines, and keep lines closed, when defending your king.
 
-When in check, always consider all three escape methods – capture the attacker, interpose, or move the king. Do not automatically move your king.
+When in check, always consider all three escape methods - capture the attacker, interpose, or move the king. Do not automatically move your king.
 
 Brilliant defense can be just as powerful and imaginative as brilliant attack.
