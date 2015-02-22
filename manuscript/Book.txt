@@ -1,1 +1,10 @@
 01_Introduction.md
+02_General_Principles_and_Guidelines.md
+03_Why_Didnt_Somebody_Tell_Me_These_Things.md
+04_The_Opening.md
+05_The_Middlegame.md
+06_Attack_and_Defense.md
+07_The_Endgame.md
+08_The_Pratical_Player.md
+09_The_Elements.md
+10_While_It_Is_Your_Move.md
