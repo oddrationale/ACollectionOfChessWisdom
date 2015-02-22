@@ -1,6 +1,6 @@
 # The Opening
 
-> "Your only task in the opening is to reach a playable middlegame."
+> "Your only task in the opening is to reach a playable middlegame."  
 > Lajos Portisch
 
 In the opening, work to: 1) control the center; 2) develop all your pieces to effective squares; and 3) safeguard your king. Every move in the opening should contribute to one or more of these three opening objectives. If it doesn't, it is probably weak or an outright mistake.

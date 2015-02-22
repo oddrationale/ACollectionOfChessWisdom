@@ -1,6 +1,6 @@
 # The Pratical Player
 
-> "You aren’t playing in a tournament to paint pictures, but to win points."
+> "You aren’t playing in a tournament to paint pictures, but to win points."  
 > C. J. S. Purdy
 
 Cecil J. Purdy was one of the best chess writers and teachers of all time. The first Correspondence Chess World Champion, he was a practical player and had a true gift for explaining the concepts of the game to the improving player so that he could apply those ideas to his own play and improve.

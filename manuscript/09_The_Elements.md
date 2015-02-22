@@ -1,6 +1,6 @@
 # The Elements
 
-> "Strategy requires thought, tactics requires observation."
+> "Strategy requires thought, tactics requires observation."  
 > Max Euwe
 
 ## Positional Themes

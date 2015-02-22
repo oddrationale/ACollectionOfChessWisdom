@@ -1,6 +1,6 @@
 # Why Didn't Sombody Tell Me These Things?
 
-> "Play the opening like a book, the middlegame like a magician, and the endgame like a machine."
+> "Play the opening like a book, the middlegame like a magician, and the endgame like a machine."  
 > Rudolf Spielmann
 
 When you see a good move, sit on your hands and see if you can find a better one. - Siegbert Tarrasch

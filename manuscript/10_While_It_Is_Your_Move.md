@@ -1,6 +1,6 @@
 ## While It Is Your Move
 
-> "All that matters on the chessboard is good moves."
+> "All that matters on the chessboard is good moves."  
 > Bobby Fischer
 
 After each of your opponent's moves, you MUST ask yourself the following questions:

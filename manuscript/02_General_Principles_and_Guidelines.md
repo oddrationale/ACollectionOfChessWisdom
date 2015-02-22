@@ -1,6 +1,6 @@
 # General Principles and Guidelines
 
-> "Chess is a game of understanding, not memory."
+> "Chess is a game of understanding, not memory."  
 > Eugene Znosko-Borovsky
 
 In chess, knowing what to do is half the battle; knowing when to do it is the other half. -Unknown
