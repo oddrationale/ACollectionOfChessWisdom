@@ -3,6 +3,7 @@
 > "Before the endgame, the gods have placed the middlegame."  
 > Siegbert Tarrasch
 
+{width="wide"}
 | Enemy Problem                   | Do This Against It                                                                                    |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|
 | Bad minor piece                 | Avoid exchanging it. Keep it restricted.                                                              |
