@@ -6,6 +6,7 @@
 ## Positional Themes
 
 A. Positional strengths:
+
 * Control of the center
 * Center pawn on our 4th rank vs. enemy pawn on his 3rd rank
 * Superior development
@@ -30,6 +31,7 @@ A. Positional strengths:
 * Available tempi
 
 B. Positional weaknesses:
+
 * Restricted king
 * Open lines toward the king
 * Cramped position
@@ -42,6 +44,7 @@ B. Positional weaknesses:
 * Weak square complex
 
 C. Permanent Advantages:
+
 * Material
 * More pawns in the center
 * Passed pawn
@@ -50,6 +53,7 @@ C. Permanent Advantages:
 * More appropriate minor pieces
 
 D. Temporary Advantages:
+
 * Vulnerable enemy piece
 * Superior coordination 
 * Control of the center
@@ -60,6 +64,7 @@ D. Temporary Advantages:
 ## Tactical Themes
 
 E. Tactical weaknesses:
+
 * Exposed king
 * Vulnerable back rank
 * Unguarded pieces and pawns
@@ -72,6 +77,7 @@ E. Tactical weaknesses:
 * Vulnerable vital guards
 
 F. Common Tactics:
+
 * Pin 
 * Knight fork 
 * Double attack 
@@ -82,6 +88,7 @@ F. Common Tactics:
 * Deflecting defenders 
 
 G. Less Common Tactics:
+
 * Overworked defender 
 * In-between move (Zwischenzug) 
 * Trapped piece 
@@ -95,6 +102,7 @@ G. Less Common Tactics:
 ## Improving Your Position
 
 H. Look for opportunities to:
+
 * Gain more space - pawn advance(s)
 * Improve your king's safety
 * Put your pieces on better squares
@@ -107,6 +115,7 @@ H. Look for opportunities to:
 ## Prophylaxis
 
 I. Look for opportunities to:
+
 * Anticipate and frustrate all your opponent's plans
 * Deny your opponent control of key lines or squares
 * Deny your opponent access to important squares
@@ -118,6 +127,7 @@ I. Look for opportunities to:
 ## Planning
 
 J. Imbalances:
+
 * Superior minor piece 
 * Pawn structure
 * Space
@@ -127,6 +137,7 @@ J. Imbalances:
 * Initiative 
 
 K. Silman Thinking Technique:
+
 * Figure out the positive and negative imbalances for both sides.
 * Figure out the side of the board you wish to play on. You can only play where a favorable imbalance or the possibility of creating a favorable imbalance exists.
 * Don't calculate. Instead, dream up various fantasy positions that you would like to achieve.
@@ -134,6 +145,7 @@ K. Silman Thinking Technique:
 * Only now do you look at the candidate moves you wish to calculate.
 
 L. Following a Plan:
+
 * Plans should have specific goals.
 * Plans can be offensive or defensive.
 * Plans should be based on the specific features of the position.
