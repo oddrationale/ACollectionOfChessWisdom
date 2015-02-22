@@ -1,5 +1,8 @@
 ## While It Is Your Move
 
+> "All that matters on the chessboard is good moves."
+> Bobby Fischer
+
 After each of your opponent's moves, you MUST ask yourself the following questions:
 
 1. What has changed in the position? Every move alters the position on the chessboard, so pay careful attention to your opponent's last move. Learn to look for and recognize all changes in the position after each move, by asking the following questions:

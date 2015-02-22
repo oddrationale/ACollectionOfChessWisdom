@@ -1,5 +1,8 @@
 # The Endgame
 
+> "To be capable of conducting an endgame to the distant goal with clarity, firmness, and complete familiarity with all its tricks and traps is the sign of the first-class master."
+> J. Mieses
+
 Familiarize yourself with the endgames likely to stem from the openings you play.
 
 Exploit advantages and minimize disadvantages. 

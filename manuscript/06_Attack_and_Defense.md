@@ -1,5 +1,8 @@
 # Attack and Defense
 
+> "The true sweetness of chess, if it can be sweet, is to see a victory snatched, by some happy impertinence, out of the shadow of apparently irrevocable disaster."
+> H. G. Wells
+
 King safety is always paramount. Avoid exposing him to attack. Protect your king at all times.
 
 Keep pieces and pawns defended. Unguarded pieces and pawns are targets.
