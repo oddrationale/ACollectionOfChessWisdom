@@ -10,5 +10,5 @@ For those of you who have never read _A Collection of Chess Wisdom_, you will fi
 
 I claim no authorship of the material presented. I have simply edited and reformatted the material from the original site. I hope you find the contents helpful when you play your next game!
 
-Dariel Dato-on
+Dariel Dato-on  
 February 2015
