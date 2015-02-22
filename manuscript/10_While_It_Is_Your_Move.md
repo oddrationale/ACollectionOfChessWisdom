@@ -1,4 +1,4 @@
-## While It Is Your Move
+# While It Is Your Move
 
 > "All that matters on the chessboard is good moves."  
 > Bobby Fischer
